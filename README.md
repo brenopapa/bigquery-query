@@ -1,1 +1,11 @@
 # bigquery-query
+
+Use .env file with:
+
+CAROLUSER = 
+CAROLPWD = 
+CAROLTENANT = 
+CAROLORGANIZATION = 
+CAROLAPPNAME = 
+CAROLCONNECTORID = 
+CAROLSA = 
