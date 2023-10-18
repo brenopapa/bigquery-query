@@ -15,6 +15,6 @@ To use the script:
 python -m venv .venv
 .\.venv\Scripts\activate on Windows or source .venv/bin/activate on Mac
 python -m pip install -r requirements.txt
-python test.py
+python carol-bq-query.py
 ```
 
