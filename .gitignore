@@ -1,0 +1,11 @@
+.old
+.venv
+terraform-db-infrastructure
+.env
+logs.sh
+connectors.log
+*.txt
+*.csv
+*.json
+__pycache__
+utils/__pycache__
