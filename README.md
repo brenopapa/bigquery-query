@@ -5,8 +5,8 @@ Use .env file with:
 CAROLUSER = your carol user
 CAROLPWD = your carol pwd
 CAROLTENANT = target tenant
-CAROLORGANIZATION = tenants organization
-CAROLCONNECTORID = tenants connectorid
+CAROLORGANIZATION = tenant organization
+CAROLCONNECTORID = tenant connectorid
 CAROLSA = carol serviceaccount json
 ```
 
