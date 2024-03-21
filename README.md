@@ -8,7 +8,6 @@ CAROLTENANT = target tenant
 CAROLAPP = your carol app - installed on tenant
 CAROLORGANIZATION = tenant organization
 CAROLCONNECTORID = tenant connectorid
-CAROLSA = carol serviceaccount json
 ```
 
 To use the script:

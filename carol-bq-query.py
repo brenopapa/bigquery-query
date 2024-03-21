@@ -12,7 +12,6 @@ CAROLTENANT = os.environ.get("CAROLTENANT")
 CAROLAPP = os.environ.get("CAROLAPP")
 CAROLORGANIZATION = os.environ.get("CAROLORGANIZATION")
 CAROLCONNECTORID= os.environ.get("CAROLCONNECTORID")
-CAROLSA = json.loads(os.environ.get("CAROLSA"))
 
 sql_query = '''
 select * from shd_Protheus_workstations limit 10
